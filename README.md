@@ -10,8 +10,8 @@ Evaluate and compare different classification approaches on EMG sensor data, mea
 
 | File | Description |
 |---|---|
-| `EMG_DATASET/EMG.csv` | 50,000 samples with 2 features (x1, x2) |
-| `EMG_DATASET/Rotulos.csv` | 50,000 one-hot encoded labels across 5 classes |
+| `assets/EMG.csv` | 50,000 samples with 2 features (x1, x2) |
+| `assets/Rotulos.csv` | 50,000 one-hot encoded labels across 5 classes |
 
 **Classes:** neutro, sorriso, aberto, surpreso, grumpy
 
