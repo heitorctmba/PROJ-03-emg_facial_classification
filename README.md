@@ -41,7 +41,7 @@ Naive Bayes achieved the best result, explained by the low correlation between f
 
 ## Report
 
-A detailed written report covering the methodology, mathematical background, and analysis of results is available in [`emg-facial-classification-report.pdf`](emg-facial-classification-report.pdf).
+A detailed written report covering the methodology, mathematical background, and analysis of results is available in [`emg-facial-classification-report.pdf`](assets/emg-facial-classification-report.pdf).
 
 ## Requirements
 
